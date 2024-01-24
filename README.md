@@ -33,7 +33,7 @@ Provide a link to a live demo of your project or a set of screenshots showcasing
 1.Start the development server:
 ### `npm start`
 
-2.Open your browser and go to `http://localhost:3000`.
+2.Open your browser and go to http://localhost:3000.
 
 3.Interact with the Meme Generator to create custom memes.
 
